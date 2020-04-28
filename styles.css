@@ -7,7 +7,6 @@ font-family: "Montserrat", sans-serif;
 }
 #header {
  background-color: #1abc9c;
- margin: 0px 20px;
  height: 150px;
  line-height: 150px;
 }
@@ -22,11 +21,15 @@ font-family: "Montserrat", sans-serif;
   color: #222;
 }
 #header-title {
+ margin: 0px 10px;
   display: block;
   float: left;
 
   font-size: 20px;
   font-weight: bold;
+}
+#contact-title {
+ margin: 0px 10px;
 }
 #header-nav{
   display: block;
